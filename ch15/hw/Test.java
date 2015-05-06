@@ -38,7 +38,7 @@ class CreateTestData {
         //account number - firstname - lastname - balance
         //Can be modified
         Object[][] data = {
-                {100, "Diego Maradona", 1000.00},
+                {100, "Diego Maradonna", 1000.00},
                 {200, "Hristo Stoichkov", 2000.00},
                 {300, "Zinedine Zidane", 3000.00}
         };
