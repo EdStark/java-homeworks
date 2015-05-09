@@ -54,7 +54,7 @@ public class Tokenizer {
 
         //Loop through all list entries and print them one-by one
         for(String str:dateList){
-            System.out.println(str + " ");
+            System.out.println(str + "  ");
         }
     }
 }
