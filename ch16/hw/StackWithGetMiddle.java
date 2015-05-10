@@ -4,6 +4,7 @@ import java.util.NoSuchElementException;
 
 /**
  * Created by ikirilov on 08/05/15.
+ * Stack with GetMiddle
  */
 public class StackWithGetMiddle {
     private Node first, last;
